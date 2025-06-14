@@ -1,0 +1,10 @@
+Bread;P;Emma;0123456789;15.0;15/01/2025;true
+Cake;P;Bob;0198765432;50.0;15/01/2025;false
+Eggtarts;D;Kai;0145612378;15.0;15/01/2025;true
+Brownie;P;Taehyun;012398765;35.7;15/01/2025;false 
+Macaron;P;Yeonjun;0145678912;17.8;15/01/2025;true 
+Cupcake;P;Beomgyu;0198712345;22.5;15/01/2025;false  
+Latte;D;Soobin;0165432178;15.0;15/01/2025;true
+Espresso;D;Chloe;0132178945;17.5;15/01/2025;false  
+Mocha;D;Ivy;0114796325;14.0;15/01/2025;true
+Croissant;P;Bea;0185274193;25.5;15/01/2025;false  
